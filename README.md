@@ -62,3 +62,4 @@ Please open an Issue or submit a Pull Request to contribute.
 
 Licensed under the MIT License. See [LICENSE](LICENSE) file for details.
 # Azimzada.MVC.UserFriendlyException
+# Azimzada.MVC.UserFriendlyException
