@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Azimzada.MVC.UserFriendlyException</id>
+    <version>1.0.0</version>
+    <authors>MrAzimzadeh</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>A user-friendly exception handling package for ASP.NET Core MVC applications that displays error messages in a modal popup.</description>
+    <tags>exception mvc modal popup error-handling</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\LENOVO\Desktop\MyLib\Azimzada.MVC.UserFriendlyException\bin\Release\net8.0\Azimzada.MVC.UserFriendlyException.dll" target="lib\net8.0\Azimzada.MVC.UserFriendlyException.dll" />
+    <file src="C:\Users\LENOVO\Desktop\MyLib\Azimzada.MVC.UserFriendlyException\README.md" target="\README.md" />
+  </files>
+</package>

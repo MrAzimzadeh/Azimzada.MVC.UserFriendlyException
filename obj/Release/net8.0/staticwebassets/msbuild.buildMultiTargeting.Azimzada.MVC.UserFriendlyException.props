@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Azimzada.MVC.UserFriendlyException.props" />
+</Project>
